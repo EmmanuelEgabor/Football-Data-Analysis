@@ -250,4 +250,4 @@ https://www.linkedin.com/in/egabor-emmanuel/
 
 ## Support
 
-If you found this project useful, please consider giving it a ⭐ on GitHub. Your support is greatly appreciated.
+If you found this project useful, please consider giving it a  on GitHub. Your support is greatly appreciated.
